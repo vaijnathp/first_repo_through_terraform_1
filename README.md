@@ -1,0 +1,2 @@
+# first_repo_through_terraform_1
+Creating first_repo_through_terraform by Vaijnath Polsane
